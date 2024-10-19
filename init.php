@@ -1,5 +1,6 @@
 <?php
 
+
 use App\Models\DatabaseConnection;
 
 // Initialize Templating Engine
